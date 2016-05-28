@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Testamente - AngularJs Laravel</title>
+        <title>TestamenteV1</title>
         <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
     </head>
     <body ng-app="authApp">
